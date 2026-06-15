@@ -58,5 +58,7 @@ Created programs for:
 These exercises strengthened my ability to break down problems and translate them into step‑by‑step logic.
 
 ---
+<img width="347" height="419" alt="image" src="https://github.com/user-attachments/assets/d3456770-a9c7-4f86-9828-6e3554b713d5" />
 
+- This image displays a block of code which performs as a simple calculator, allowing users to add, subtract, multiply and divide numbers of their choosing until the user decides to exit.
 
